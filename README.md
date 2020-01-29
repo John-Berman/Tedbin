@@ -1,6 +1,6 @@
 # Tedbin
 Tedbin - Template Data Binding with Bracket Notation - Working Title
-
+Fiddle: https://jsfiddle.net/innovadev/umgy6nfw/
 JavaScript library for client side data binding to html templates with brackets notation.
 
 <span style="font-weight: bold">Example</span>
