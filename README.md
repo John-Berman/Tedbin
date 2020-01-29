@@ -7,7 +7,7 @@ Example
 
 Given an html template, with the following markup:
 
-<div>{{address.streetNumber}} {{address.streetName}}<div>
+&lt;div&gt;{{address.streetNumber}} {{address.streetName}}&lt;div&gt;
   
 When bound with:
 
@@ -18,5 +18,8 @@ When bound with:
 
 Will result in:
 
-<div>100 Oxford Street<div>
+&lt;div&gt;100 Oxford Street&lt;div&gt;
 
+Or rendered as:
+
+100 Oxford Street
